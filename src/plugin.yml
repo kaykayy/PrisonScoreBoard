@@ -1,0 +1,6 @@
+main: com.gmail.mctutorialist.prisonscoreboard.ScoreBoard
+name: PrisonScoreBoard
+version: 1.0.0
+author: MCTutorialist
+description: ScoreBoard system for prison servers
+depend: [Vault]
